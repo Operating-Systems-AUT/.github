@@ -7,4 +7,4 @@
 - 🛠️ Sample projects and code examples
 - 🤝 Collaborative learning and support
 
-**Join us to excel in your Operating Systems course! 🚀**
+
